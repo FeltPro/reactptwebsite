@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactptwebsite/static/css/main.0b712fa5.css",
+    "main.js": "/reactptwebsite/static/js/main.a20ed843.js",
+    "index.html": "/reactptwebsite/index.html",
+    "main.0b712fa5.css.map": "/reactptwebsite/static/css/main.0b712fa5.css.map",
+    "main.a20ed843.js.map": "/reactptwebsite/static/js/main.a20ed843.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b712fa5.css",
+    "static/js/main.a20ed843.js"
+  ]
+}
