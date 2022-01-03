@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactptwebsite/static/css/main.c7a7e6f6.css",
+    "main.css": "/reactptwebsite/static/css/main.9dc23d50.css",
     "main.js": "/reactptwebsite/static/js/main.0f726ea3.js",
     "index.html": "/reactptwebsite/index.html",
-    "main.c7a7e6f6.css.map": "/reactptwebsite/static/css/main.c7a7e6f6.css.map",
+    "main.9dc23d50.css.map": "/reactptwebsite/static/css/main.9dc23d50.css.map",
     "main.0f726ea3.js.map": "/reactptwebsite/static/js/main.0f726ea3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7a7e6f6.css",
+    "static/css/main.9dc23d50.css",
     "static/js/main.0f726ea3.js"
   ]
 }
